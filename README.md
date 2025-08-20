@@ -6,3 +6,6 @@
 
 🌐 Passionate about AI, Deep Learning, Web Tech, and Open Source.  
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/path-to-gemini-logo.png" alt="Google Gemini" width="200"/>
+</p>
